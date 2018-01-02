@@ -1,1 +1,1 @@
-# Shell
+This is a shell that I implemented using the C programming language. This is a project I completed for my operating systems class. It was a pretty rigorous program, as it allows users to run executables in both the foreground and background, and it features process tracking to allow users to see what executables are still running in the background and how long it took for them to finish. 
